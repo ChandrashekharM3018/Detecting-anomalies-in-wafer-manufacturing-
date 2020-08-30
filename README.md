@@ -1,4 +1,4 @@
-# Detecting-anomalies-in-wafer-manufacturing-
+# Anomaly Detection
 
 Detecting Anomalies can be a difficult task and especially in the case of labeled datasets due to some level of human bias introduced while labeling the final product as anomalous or good. 
 These giant manufacturing systems need to be monitored every 10 milliseconds to capture their behavior which brings in lots of information and what we call the Industrial IoT (IIOT). 
